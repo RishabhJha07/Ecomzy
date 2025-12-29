@@ -1,10 +1,5 @@
 # 🛒 Ecomzy
 
-🔗 **Live Demo:** https://ecomzy-olive.vercel.app/  
-📂 **GitHub Repository:** https://github.com/RishabhJha07/Ecomzy  
-
----
-
 ## 📌 About the Project
 
 **Ecomzy** is a modern eCommerce web application built using **React** and **Redux Toolkit**.  
